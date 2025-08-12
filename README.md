@@ -1,4 +1,4 @@
 # firstrepository
 This is my first Git repository.
 <br>
-Author: Ranbeer Singh Boparai.
+Author: R.S. Boparai.
